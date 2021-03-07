@@ -4,11 +4,11 @@ This is my GitHub Pages site for linking to each of the projects I've completed.
 
 ## Project List
 
-### 1. [Expanding Cards](./projects/01_expanding_cards/index.html)
+### 1. [Expanding Cards](./projects/01_Expanding_Cards/index.html)
 
-### 2. [Progress Steps](./projects/02_progress_steps/index.html)
+### 2. [Progress Steps](./projects/02_Progress_Steps/index.html)
 
-### 3. [Rotating Navigation](./projects/03_rotatinig_navigation/index.html)
+### 3. [Rotating Navigation](./projects/03_Rotating_Navigation/index.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
