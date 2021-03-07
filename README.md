@@ -1,10 +1,10 @@
-## 50 Projects in 50 Days
+# 50 Projects in 50 Days
 
 This is my GitHub Pages site for linking to each of the projects I've completed. Also, this will be done in less than 50 days.
 
-# Project List
+## Project List
 
-1. [1 - Expanding Cards](./projects/01_expanding_cards/index.html)
+## 1. [Expanding Cards](./projects/01_expanding_cards/index.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
