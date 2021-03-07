@@ -4,7 +4,7 @@ This is my GitHub Pages site for linking to each of the projects I've completed.
 
 ## Project List
 
-## 1. [Expanding Cards](./projects/01_expanding_cards/index.html)
+### 1. [Expanding Cards](./projects/01_expanding_cards/index.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
