@@ -6,6 +6,10 @@ This is my GitHub Pages site for linking to each of the projects I've completed.
 
 ### 1. [Expanding Cards](./projects/01_expanding_cards/index.html)
 
+### 2. [Progress Steps](./projects/02_progress_steps/index.html)
+
+### 3. [03_rotating_navigation](./projects/03_rotatinig_navigation/index.html)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
