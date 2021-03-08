@@ -12,7 +12,7 @@ This is my GitHub Pages site for linking to each of the projects I've completed.
 
 ### 4. [Hidden Search Widget](./projects/04_Hidden_Search_Widget/index.html)
 
-### 5. [Blurry Loading](./projects/05_Blurry Loading/index.html)
+### 5. [Blurry Loading](./projects/05_Blurry_Loading/index.html)
 
 ### 6. [Scroll Animation](./projects/06_Scroll_Animation/index.html)
 
