@@ -10,17 +10,17 @@ This is my GitHub Pages site for linking to each of the projects I've completed.
 
 ### 3. [Rotating Navigation](./projects/03_Rotating_Navigation/index.html)
 
-### 4. [Rotating Navigation](./projects/04_Hidden_Search_Widget/index.html)
+### 4. [Hidden Search Widget](./projects/04_Hidden_Search_Widget/index.html)
 
-### 3. [Rotating Navigation](./projects/05_Blurry Loading/index.html)
+### 5. [Blurry Loading](./projects/05_Blurry Loading/index.html)
 
-### 3. [Rotating Navigation](./projects/06_Scroll_Animation/index.html)
+### 6. [Scroll Animation](./projects/06_Scroll_Animation/index.html)
 
-### 3. [Rotating Navigation](./projects/07_Split_Landing_Page/index.html)
+### 7. [Split Landing Page](./projects/07_Split_Landing_Page/index.html)
 
-### 3. [Rotating Navigation](./projects/08_Form_Wave_Animation/index.html)
+### 8. [Form Wave Animation](./projects/08_Form_Wave_Animation/index.html)
 
-### 3. [Rotating Navigation](./projects/09_Sound_Board/index.html)
+### 9. [Sound Board](./projects/09_Sound_Board/index.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
